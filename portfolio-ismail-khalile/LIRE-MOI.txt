@@ -1,0 +1,22 @@
+PORTFOLIO — ISMAIL KHALILE
+
+UTILISATION
+Ouvrir index.html dans un navigateur. Aucun outil de compilation, aucune dépendance et aucune connexion nécessaires à l’affichage.
+Pour publier : déposer index.html à la racine d’un hébergement de site statique (Netlify, Vercel ou GitHub Pages, par exemple).
+
+CONTENU
+Les textes reprennent le CV fourni. Les deux illustrations de projets sont des compositions CSS conceptuelles, et non des captures des applications réelles.
+Aucun lien GitHub, profil LinkedIn, dépôt de projet ou site de démonstration n’a été inventé.
+Les coordonnées sont publiques dans le fichier : les vérifier avant publication.
+Le formulaire utilise mailto : il requiert une messagerie configurée et ne réalise pas d’envoi serveur. L’utilisateur valide l’envoi dans sa messagerie.
+
+PERSONNALISATION
+Modifier les textes directement dans index.html.
+Les couleurs sont définies au début du bloc style dans :root.
+Remplacer les illustrations conceptuelles par de vraies captures si disponibles.
+Ajouter les URL GitHub / LinkedIn / démonstrations uniquement après vérification.
+La photo n’est pas utilisée ; le monogramme IK sert d’identité visuelle.
+
+INSPIRATION
+Structure éditoriale inspirée du portfolio https://abhishekganvir.vercel.app/ : introduction Full Stack, technologies, présentation, portfolio et contact.
+Design et code originaux ; la reproduction visuelle exacte du site source n’a pas été vérifiée.
